@@ -2,7 +2,7 @@ require 'rspec'
 
 describe 'Dsl - Structs' do
 
-context 'Dsl Struct Contexg' do
+context 'Dsl Struct Context' do
 
   before(:all) do
     @default_curry = veggie_curry do
